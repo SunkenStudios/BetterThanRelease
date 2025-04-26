@@ -4,7 +4,7 @@ A mod for **Minecraft Beta 1.8.1** that backports select features from modern ve
 
 ---
 
-## Features
+## Some Features
 
 - **Sprint Keybind**  
   Adds a dedicated sprint key, just like in modern Minecraft, for smoother movement control.
