@@ -28,7 +28,7 @@ A mod for **Minecraft Beta 1.8.1** that backports select features from modern ve
 This mod is for **Minecraft Beta 1.8.1** and requires a compatible mod loader (e.g., **MultiMC**).
 
 1. Create a Beta 1.8.1 instance
-2. Add BetterThanReleaseV1.zip as a jarmod
+2. Add BetterThanReleaseV1.zip as a jarmod (Versions tab, then "Add to minecraft.jar")
 3. Launch the game
 
 OR
