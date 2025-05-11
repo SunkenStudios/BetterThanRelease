@@ -1,0 +1,24 @@
+Added Sprint keybind
+Fixed walking on Farmland causing it to trample
+Added Spruce & Birch plank type
+Fixed endermen playing zombie sounds
+Fixed tool efficiency
+Fixed boats dropping on impact & not dropping themselves
+Fixed stairs not dropping their stair type, and just dropping the block reference.
+Implemented the enderpearl functionality
+Made version text toggleable
+Added VSync to preformance modes
+Made it so animals must drop atleast 1 item bare-minimum
+Fixed creeper visual not working on servers
+Made crit effect work on servers
+Added crouching to leave Minecarts and Boats
+Fixed fence gates and fences only being able to be placed on the ground
+F9 to switch between survival and creative in singleplayer (issues the command on servers)
+Fixed fall damage being acumulated when flying in creative
+Added sky dimension (only implemented into the client-server code, not complete yet.)
+Made bookshelves drop 3 books when mined
+Changed internal naming for diamonds from "emerald" to "diamond"
+Made flint and steel properly light TNT
+Backported enchantment system
+Added rubies
+Added Front F5 
