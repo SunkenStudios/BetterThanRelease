@@ -22,3 +22,5 @@ Made flint and steel properly light TNT
 Backported enchantment system
 Added rubies
 Added Front F5 
+Added "Fish Legs" enchantment (makes you swim faster in water, is applied to leggings)
+Disabled "Saving level.." text when in multiplayer
