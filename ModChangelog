@@ -24,3 +24,5 @@ Added rubies
 Added Front F5 
 Added "Fish Legs" enchantment (makes you swim faster in water, is applied to leggings)
 Disabled "Saving level.." text when in multiplayer
+Made sword blocking work more like shields
+Fixed fence rendering and collisions
