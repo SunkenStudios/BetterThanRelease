@@ -27,3 +27,4 @@ Disabled "Saving level.." text when in multiplayer
 Made sword blocking work more like shields
 Fixed fence rendering and collisions
 Fixed trapdoor placing
+Made it so you can combine tools to repair them, but it will pick the middle of their enchantment levels. (Sharpness 0 + Sharpness 5 tools will result in Sharpness 2.)
