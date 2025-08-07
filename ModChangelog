@@ -28,3 +28,16 @@ Made sword blocking work more like shields
 Fixed fence rendering and collisions
 Fixed trapdoor placing
 Made it so you can combine tools to repair them, but it will pick the middle of their enchantment levels. (Sharpness 0 + Sharpness 5 tools will result in Sharpness 3.)
+
+Version 7 :
+Added Raw Mouse Input
+Made render distance into a slider
+Fixed sounds not networking from server to client
+Fixed redownloading resources every time the game launches
+Added christmas chests
+Added quartz ore, quartz, and block of quartz
+If you sleep in a bed with 2 diamond blocks below it, and quartz blocks, you will be sent to the sky dimension. fall into the void to return to your bed
+Added more records, and made their track names display in the inventory.
+Updated sapling texture
+Added a keybind for Zoom
+Made it so you can't sleep when monsters are nearby
