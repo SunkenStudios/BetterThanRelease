@@ -41,3 +41,5 @@ Added more records, and made their track names display in the inventory.
 Updated sapling texture
 Added a keybind for Zoom
 Made it so you can't sleep when monsters are nearby
+Fixed double door redstone
+Fixed redstone activator sounds not networking
