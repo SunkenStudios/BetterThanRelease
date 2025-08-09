@@ -1,1 +1,11 @@
-
+{
+    "latest": "1.0",
+    "versions": [
+        {
+            "version": "1.0",
+            "download": "https://github.com/SunkenStudios/BetterThanRelease/raw/refs/heads/main/BetterThanReleaseV7.zip",
+            "date": "2023-10-01",
+            "description": "Initial release of Better than Release"
+        }
+    ]
+}
